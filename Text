@@ -1,0 +1,6 @@
+EngHasan998-PetroLibrary/
+├── main.py
+├── buildozer.spec
+├── codemagic.yaml
+├── requirements.txt
+└── README.md
